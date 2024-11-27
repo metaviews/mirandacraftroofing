@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <title>Miranda Craft Roofing</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.png" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Roboto:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="assets/vendor/animate.css/animate.min.css" rel="stylesheet">
+  <link href="assets/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="assets/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
+  <link href="assets/vendor/lightbox/css/lightbox.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
+  <!-- =======================================================
+  * Template Name: Groovin - v2.2.0
+  * Template URL: https://bootstrapmade.com/groovin-free-bootstrap-theme/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
+</head>
+
+<body>
+
+  <!-- ======= Header ======= -->
+  <header id="header" class="fixed-top">
+    <div class="container d-flex align-items-center">
+
+      <!--<h1 class="logo mr-auto"><a href="index.php">Miranda Craft Roofing</a></h1>-->
+      <!-- Uncomment below if you prefer to use an image logo -->
+      <a href="index.php" class="logo mr-auto"><img src="assets/img/MCR_Logo_Navy.jpg" alt="logo" class="img-fluid"></a>
+
+      <nav class="nav-menu d-none d-lg-block">
+        <ul>
+          <li class="active"><a href="index.php">Home</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#testimonials">Testimonials</a></li>
+          <li><a href="#gallery">Gallery</a></li>
+          <li><a href="#contact">Contact</a></li>
+
+        </ul>
+      </nav><!-- .nav-menu -->
+
+      <!--<a href="#about" class="get-started-btn scrollto">Get Started</a>-->
+
+    </div>
+  </header><!-- End Header -->
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container">
+      <div id="heroCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+
+        <ol class="carousel-indicators" id="hero-carousel-indicators"></ol>
+
+        <div class="carousel-inner" role="listbox">
+
+          <!-- Slide 1 -->
+          <div class="carousel-item active" style="background: url(assets/images/20180809_160708.jpg);">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown">Daniel Miranda</h2>
+                <p class="animate__animated animate__fadeInUp">If you want to have the best roof you need to hire the best roofer.</p>
+                <div>
+                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                </div>
+                <div class="social-links mt-3">
+                  <a href="https://www.facebook.com/Miranda-Craft-Roofing-239163292838982/" class="facebook"><i class="bx bxl-facebook"></i></a>
+                  <a href="https://www.instagram.com/mirandacraftroofing/" class="instagram"><i class="bx bxl-instagram"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 2 -->
+          <div class="carousel-item" style="background: url(assets/images/20181121_164222.jpg);">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown">Craft Roofing</h2>
+                <p class="animate__animated animate__fadeInUp">Using the best techniques and the best materials, your roof should not only keep you warm and dry, but increase the value of your home.</p>
+                <div>
+                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <!-- Slide 3 -->
+          <div class="carousel-item" style="background: url(assets/images/20200925_171949.jpg);">
+            <div class="carousel-container">
+              <div class="carousel-content">
+                <h2 class="animate__animated animate__fadeInDown">Your roof deserves durability and perseverance</h2>
+                <p class="animate__animated animate__fadeInUp">A man that works with his hands, his head, and his heart is a craftsman.</p>
+                <div>
+                  <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+        <a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon icofont-simple-left" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+
+        <a class="carousel-control-next" href="#heroCarousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon icofont-simple-right" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+
+      </div>
+    </div>
+  </section><!-- End Hero -->
+
+  <main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+      <div class="container">
+
+        <div class="row no-gutters">
+          <div class="image col-xl-5 d-flex align-items-stretch justify-content-center justify-content-lg-start"></div>
+          <div class="col-xl-7 pl-0 pl-lg-5 pr-lg-1 d-flex align-items-stretch">
+            <div class="content d-flex flex-column justify-content-center">
+              <h3>About Daniel Miranda</h3>
+              <p>Daniel Miranda is a hard working creative business owner who brings his passion for life to his work and trade.</p>
+              <p>As a roofer, Daniel has never shied away from challenges and has always sought more knowledge and skills to share with his clients.</p>
+              <p>With 15 years experience as an entrepreneur, Daniel not only creates unique and long lasting roof designs, he also consistently gets jobs done on time and within budget.</p>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End About Section -->
+
+    <!-- ======= Testimonials Section ======= ->-->
+    <hr>
+    <section id="testimonials" class="testimonials">
+      <div class="container">
+
+        <div class="section-title" data-aos="fade-up">
+          <h2>Testimonials</h2>
+          <h4>What others say about Daniel:</h4>
+          <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+             I hold special ornamental slate courses in Cologne, Germany. These became more and more popular and the number of interested parties increased from year to year. I often had to put international participants like Daniel Miranda off, as there were some hurdles to overcome. For one thing, I don't speak English and Daniel doesn't speak German. But Daniel was determined to come.
+             <br>
+             His course began in January 2019. He was very inquisitive and able to implement what he had learned quickly, despite the language obstacle. Other participants helped: craftsmen all over the world speak with their hands. The course was a success and everyone finished their slate ornaments and were able to take them home... except for Daniel, who lives in Toronto, Canada. It was too big and heavy for hand luggage. So the ornament stayed in Cologne. Daniel suggested it could be sold, and the proceeds donated to charity, but we didn't want to give it away for 100 Euros.
+             <br>
+             I still hope that someday I will get to Canada, because a former student of mine, Patrick Leinhard, now lives there. Apparently, Patrick is planning to send an overseas container from Germany to Canada and, if there is enough space, could transfer the ornament with it. It would be a nice end to Daniel's stay in Europe. I am always happy to hear from Daniel and hope he does not lose anything of his commitment to the craft.
+             <br>
+             Greetings from Cologne
+             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+             <br>
+              <em>- Hans-Peter Koennecke</em>
+            </p>
+        </div>
+
+        <div class="owl-carousel testimonials-carousel" data-aos="fade-up">
+
+          <div class="testimonial-item">
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              Daniel of Miranda Craft Roofing replaced the roof on my cottage last summer and did an excellent job. I was so impressed by his expertise and ability to adapt and work under challenging circumstances. I have since recommended him to many of my friends.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+            <h3>Maxine Hermolin</h3>
+          </div>
+
+          <div class="testimonial-item">
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              I have had the pleasure of watching Daniel Miranda's career develop over the last 15 years, from when he was an apprentice working with shingled roofs to metal and eventually complicated slate installations. He's an extremely hard and conscientious worker. Daniel listens well and responds appropriately. After a recent windstorm damaged our roof, he responded quickly and charged us more than fairly. Many neighbours saw his work and hired him to do repairs on their roof as well. All were satisfied.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+            <h3>Walter Weary</h3>
+          </div>
+
+          <div class="testimonial-item">
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              It doesnt get better than daniel miranda when it  comes to roofing. He has handled all my roofing work for a decade. He can do everything in the roofing world better than anyone I know. He and his team are hard working, fast, tidy and reliable. Daniel takes great pride in his work, he keeps his word and is fair. Plus he is a genuinely nice human being.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+            <h3>David Ryan</h3>
+          </div>
+
+          <div class="testimonial-item">
+            <p>
+              <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+              There's nobody I'd trust more with my roof or for that matter anything, than Daniel Miranda.
+              <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+            </p>
+            <h3>Jesse Hirsh</h3>
+          </div>
+
+        </div>
+
+      </div>
+    </section><!-- End Testimonials Section -->
+
+    <!-- Gallery Section -->
+    <section id="gallery" class="gallery section-bg">
+    	<div class="container container-xl">
+    		<div class="section-title">
+    			<h2>Gallery</h2>
+    		</div>
+    		<div class="row">
+    			<div class="col-lg-12 d-flex justify-content-center">
+    				<div class="owl-carousel" id="owl-carousel-gallery">
+    					<?php
+              $dir    = 'assets/images';
+              $files = scandir($dir);
+              $images = array();
+              foreach($files as $file) {
+                if(fnmatch('*.jpg',$file)) {
+                  $images[] = $file;
+                }
+              }
+
+              foreach($images as $image) {
+                list($width, $height, $type, $attr) = getimagesize("assets/images/".$image);
+                $exif = exif_read_data("assets/images/".$image);
+                $aspect = $width / $height;
+                $baseheight = 400;
+                
+                if($aspect > 1 && $exif['Orientation'] == 6){
+                  $basewidth = $baseheight / $aspect;
+                }
+                else if($aspect > 1){
+                  $basewidth = $baseheight * $aspect;
+                }
+                else {
+                  $basewidth = $baseheight * $aspect;
+                }
+                
+                echo '<div class="item" style="--basewidth: '.$basewidth.'px;"><a href="assets/images/'.$image.'" data-lightbox="gallery"><img src="assets/images/'.$image.'"></a></div>';
+              }
+              ?>
+    				</div>
+            
+    			</div>
+    		</div>
+        <div class="row">
+          <div class="col-lg-12 d-flex justify-content-center">
+            <div class="gallery-nav"></div>
+          </div>
+        </div>
+    	</div>
+    </section>
+
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+      <div class="container">
+
+        <div class="section-title">
+          <h2>Contact</h2>
+        </div>
+
+        <div class="row no-gutters justify-content-center">
+
+          <div class="col-lg-6 d-flex align-items-stretch">
+            <div class="info">
+              <div class="email">
+                <a href=mailto:daniel@mirandacraftroofing.com><i class="icofont-envelope"></i></a>
+                <h4>Email:</h4>
+                <p><a href=mailto:daniel@mirandacraftroofing.com>daniel@mirandacraftroofing.com</a></p>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+      </div>
+    </section><!-- End Contact Section -->
+
+  </main><!-- End #main -->
+
+  <!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 col-md-12 justify-content-center">
+            <div class="footer-info">
+              <div class="footer-logo">
+                <a href="index.php" class="logo mr-auto"><img src="assets/img/MCR_Logo_Navy.jpg" alt="logo" class="img-fluid"></a>
+              </div>
+              <div class="social-links mt-3">
+                  <a href="https://www.facebook.com/Miranda-Craft-Roofing-239163292838982/" class="facebook"><i class="bx bxl-facebook"></i></a>
+                  <a href="https://www.instagram.com/mirandacraftroofing/" class="instagram"><i class="bx bxl-instagram"></i></a>
+              </div>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="copyright">
+        &copy; Copyright <strong><span>Daniel Miranda</span></strong>. All Rights Reserved
+      </div>
+    </div>
+  </footer><!-- End Footer -->
+
+  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/jquery/jquery.min.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="assets/vendor/php-email-form/validate.js"></script>
+  <script src="assets/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="assets/vendor/counterup/counterup.min.js"></script>
+  <script src="assets/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="assets/vendor/venobox/venobox.min.js"></script>
+  <script src="assets/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="assets/vendor/lightbox/js/lightbox.min.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
